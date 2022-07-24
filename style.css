@@ -1,0 +1,115 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+   background-color: #EEE;
+}
+.continer{
+   background-color: #E4F9F5;
+   max-width: 1000px;
+   margin: 0 auto;
+   padding: 20px;
+
+}
+header{
+}
+.profile-picture{
+   width: 100px;
+   height: 120px;
+   border-radius: 50%;
+   border: 2px solid white;
+   margin-top: 4px;
+   margin-left: 5px;
+   float: left;
+}
+
+.header-bio{
+   float: left;
+   padding: 30px;
+}
+h1,h2,h3,h4,h5,h6,span{
+   color: #11999e;
+}
+.header-contact{
+   float: right;
+   padding: 30px;
+   font-weight: bold;
+}
+.header-contact a{
+   text-decoration: none;
+   color: teal;
+}
+
+.header-contact p a:hover{
+   text-decoration: underline;
+}
+.div-clear{
+   clear: both;
+}
+hr{
+   border: solid black 3px;
+   width: 100%;
+   margin: 20px auto;
+   border-bottom: none;
+}
+
+/*================
+   Personal Section Start Here
+ =================*/
+
+ .personal-section{
+
+ }
+
+ .contact{
+
+ }
+
+ .left-div{
+   width: 30%;
+   float: left;
+ }
+ .right-div{
+   width: 70%;
+   float: left;
+ }
+
+.common-hr{
+   border: solid 1px black;
+   border-bottom: none;
+   width: 100%;
+   margin: 20px auto;
+}
+.edu-sec-left{
+   width: 45%;
+   float: left;
+}
+.edu-sec-right{
+   width: 45%;
+   float: left;
+}
+.honors-sec-left{
+   width: 70%;
+}
+
+.References-sec-left{
+   float: left;
+   width: 45%;
+}
+.bottom-footer{
+   background-color: black;
+   width: 100%;
+   height: 80px;
+   text-align: center;
+   padding: 10px;
+}
+.bottom-footer a{
+   color: white;
+   text-decoration: none;
+   margin: 20px;
+}
+.bottom-footer p{
+   color: white;
+   margin-top: 20px;
+}
